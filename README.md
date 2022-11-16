@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @nessto I'm in software development, I specialize in cybersecurity. 
-- 👀 I'm interested in frontend technologies and Cybersecurity.
-- 🌱 I am currently learning and getting certified in cloud security especially google cloud.
-- 💞️ I am looking to collaborate in projects focused on implementation of information security protocols. 
-- 📫 How to contact me: nestor@hoken.mx
+- 👋 Hi, I'm @nessto I'm in iOS developer jr. 
+- 👀 I'm interested in iOS, Apple ecosystem and Cybersecurity.
+- 🌱 I am currently learning and getting certified in cloud security especially google cloud, Swift and SwiftUI.
+- 💞️ I am looking to collaborate in iOS mobile application development projects and in the implementation of information security protocols. 
+- 📫 How to contact me: nestoor.co@gmail.com
